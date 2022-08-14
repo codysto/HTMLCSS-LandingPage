@@ -42,7 +42,7 @@ h6 {
 }
 /***************************************/
 
-.contianer {
+.container {
   margin: 0 auto;
   max-width: 1170px;
 }
@@ -83,19 +83,19 @@ section {
 
 .btn {
   cursor: pointer;
-  border: none;
+  border: 0;
   padding: 6px 12px;
   border-radius: 3px;
   line-height: 1.4;
 }
 
 .btn-default {
-  color: white;
+  color: #ffffff;
   background-color: #faa541;
 }
 
 .btn-primary {
-  color: white;
+  color: #ffffff;
   background-color: #364147;
 }
 
