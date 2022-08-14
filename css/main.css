@@ -128,19 +128,17 @@ section {
 
 /* Nav Bar */
 .header-nav {
-  border-bottom: 1px #a0a0a0;
+  border-bottom: 1px solid #a0a0a0;
 }
 
 .brand {
   width: 170px;
   height: 85px;
-  margin-left: 15px;
+  margin-left: -15px;
   margin-right: 60px;
 }
 
 .logo {
-  width: 170px;
-  height: 85px;
   max-width: 100%;
   height: auto;
 }
@@ -151,11 +149,11 @@ section {
   margin-top: 10px;
 }
 
-.nav-list[li a] {
+.nav-list li a {
   font-size: 16px;
   text-transform: uppercase;
   weight: 700;
-  line-height: 0.2px;
+  letter-spacing: 0.2px;
 }
 
 /* Search Box */
@@ -164,7 +162,7 @@ section {
   width: 330px;
   height: 30px;
   padding: 6px 12px;
-  border: 1px #a0a0a0;
+  border: 1px solid #a0a0a0;
 }
 
 .search-button {
