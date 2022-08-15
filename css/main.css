@@ -152,7 +152,7 @@ section {
 .nav-list li a {
   font-size: 16px;
   text-transform: uppercase;
-  weight: 700;
+  font-weight: 700;
   letter-spacing: 0.2px;
 }
 
