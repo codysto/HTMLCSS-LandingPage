@@ -333,7 +333,7 @@ section {
   content: "";
   width: 100px;
   height: 1px;
-  background-color: #faa541
+  background-color: #faa541;
   margin: 20px auto;
   display: block;
 }
