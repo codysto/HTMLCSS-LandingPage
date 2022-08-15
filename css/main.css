@@ -341,13 +341,13 @@ section {
 .full-banner-sidebar > div:nth-of-type(1) {
   font-size: 60px;
   font-weight: 700;
-  letter-height: 1;
+  line-height: 1;
 }
 
 .full-banner-sidebar > div:nth-of-type(2) {
   font-size: 25px;
   font-weight: 200;
-  letter-height: 3px;
+  line-height: 3px;
 }
 
 .full-banner-sidebar .btn.btn-default {
